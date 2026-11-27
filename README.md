@@ -18,4 +18,4 @@ The full-row sum was compared with the published spectrum for **3,752 matched pa
 2. In [Google Colab](https://colab.research.google.com/drive/1-L3NN1DscB1QbgjsxSdwaJ_2WfMDQp-y), place the archive in **My Drive**, run all cells, and approve the Drive mount when prompted.
 3. To run locally, place the archive next to the [notebook](JADES%202D%20to%201D%20Spectrum.ipynb), install the dependencies with `python -m pip install astropy numpy matplotlib jupyterlab`, and launch JupyterLab from the repository root with `python -m jupyterlab`.
 
-The [report] of this work(jades-report/main.tex) and its three figures are in the `jades-report` folder. Set `main.tex` as the main file when compiling the report.
+The [report](jades-report/main.tex) of this work and its three figures are in the `jades-report` folder. Set `main.tex` as the main file when compiling the report.
