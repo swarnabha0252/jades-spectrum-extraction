@@ -4,10 +4,9 @@
 
 # Local report exports
 /JADES-Overleaf.zip
-/jades-report/spectrum.png
-/jades-report/*.aux
-/jades-report/*.log
-/jades-report/*.out
+/report/*.aux
+/report/*.log
+/report/*.out
 
 # Local caches
 .DS_Store
