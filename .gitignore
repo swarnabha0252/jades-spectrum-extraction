@@ -1,0 +1,15 @@
+# Downloaded JADES data
+/hlsp_jades_jwst_nirspec_clear-prism.tar.xz
+/hlsp_jades_jwst_nirspec_clear-prism/
+
+# Local report exports
+/JADES-Overleaf.zip
+/jades-report/spectrum.png
+/jades-report/*.aux
+/jades-report/*.log
+/jades-report/*.out
+
+# Local caches
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
